@@ -1,2 +1,2 @@
-# java-maven-project-
+# java-maven-project-actions
 java-maven-project-Github-actions 
